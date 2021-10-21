@@ -10,3 +10,6 @@ http://51.158.28.17:8000/
 00:1a:79:3d:c7:7e     
 00:1A:79:3D:C8:04  
 END_SERVER
+http://dottorjekyll.ddns.net:8000
+00:1A:79:72:33:5C
+END_SERVER
