@@ -13,13 +13,4 @@ END_SERVER
 http://dottorjekyll.ddns.net:8000/
 00:1A:79:72:33:5C
 END_SERVER
-http://lazzaro.services:29500
-00:1A:79:72:6C:AB     
-00:1A:79:46:BC:8D     
-00:1A:79:4C:C5:50     
-00:1A:79:59:80:73      
-00:1A:79:5E:3C:F0      
-00:1A:79:50:CE:FD     
-00:1A:79:72:6C:BC     
-00:1A:79:47:7B:33 
-END_SERVER
+
