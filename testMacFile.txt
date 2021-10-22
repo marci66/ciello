@@ -13,4 +13,10 @@ END_SERVER
 http://dottorjekyll.ddns.net:8000/
 00:1A:79:72:33:5C
 END_SERVER
-
+http://pompefunebri-anubis.is-very-good.org:8000/
+00:1A:79:38:B9:61     
+00:1A:79:37:D5:88    
+00:1A:79:37:D4:B4    
+00:1A:79:36:2E:22    
+00:1A:79:36:2F:62
+END_SERVER
