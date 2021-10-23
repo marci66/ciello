@@ -63,3 +63,6 @@ http://89.163.224.48:25461/
 00:1a:79:50:1a:bb
 00:1a:79:3c:51:ad
 END_SERVER
+http://lazzaro.services:29500
+00:1A:79:72:6D:09
+END_SERVER
