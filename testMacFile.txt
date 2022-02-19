@@ -10,8 +10,8 @@
 {"name": "",
 "image": "",
 "stations":[
-{ "name": "",
-"url": "https://pastebin.com/raw/48hhVSjn#.m3u",
+{ "name": "live",
+"url": "https://pastebin.com/raw/jSM7hgpj#.m3u",
 "userAgent": "cp_2531",
 "isHost": true },
 ]},
