@@ -1,2 +1,23 @@
-
-
+{
+"name": "xxl",
+"author": "fresco",
+"url": "",
+"image": "",
+"image": "",
+"telegram": "",
+"info":
+"groups": [
+{"name": "TELEVISION MOVISTAR",
+"image": "https://medias.unifrance.org/medias/48/130/229936/format_page/media.png",
+"stations":[
+{ "name": "Tv -Pincha aqui-", "image": "https://medias.unifrance.org/medias/48/130/229936/format_page/media.png",
+"url": "https://pastebin.com/raw/48hhVSjn#.m3u",
+"userAgent": "cp_2531",
+"isHost": true },
+]},
+{"name": "Tv ESPAÑA",
+"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/Tv%20(1).gif",
+"stations":[
+{"name": "La 1",
+"image": "https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",
+"url": "https://rtvelivestreamv3.akamaized.net/la1_main_dvr.m3u8"
