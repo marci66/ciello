@@ -1,0 +1,32 @@
+#EXTM3U 
+#EXTINF:-1,⏰⏰⏰ in diretta tv 22-09-2022-io aggiorno sempre gli eventi ma solo gli amici ringraziano⏰⏰⏰
+http://vimeo.com
+ 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/530/215/png-transparent-football-flame-calcio-a-8-football-sport-computer-wallpaper-sports-equipment.png" group-title="calcio",zona dazn
+https://pepperlive.info/sportp.php?id=6
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/530/215/png-transparent-football-flame-calcio-a-8-football-sport-computer-wallpaper-sports-equipment.png" group-title="calcio", sport italia 24
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/530/215/png-transparent-football-flame-calcio-a-8-football-sport-computer-wallpaper-sports-equipment.png" group-title="calcio",sky sport 24
+https://starlive.xyz/embed.php?id=livexSport24
+ 
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20200709/original/pngtree-uefa-nations-league-logo-png-image_3642677.jpg" group-title="nations-league",16:00 Kazakistan vs Bielorussia
+https://www.curvaweb.com/embed.php?id=live42
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20200709/original/pngtree-uefa-nations-league-logo-png-image_3642677.jpg" group-title="nations-league",18:00 Lettonia vs Moldavia
+https://www.curvaweb.com/embed.php?id=live42
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20200709/original/pngtree-uefa-nations-league-logo-png-image_3642677.jpg" group-title="nations-league",18:00 Lettonia vs Moldavia
+https://www.curvaweb.com/embed.php?id=livept1
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20200709/original/pngtree-uefa-nations-league-logo-png-image_3642677.jpg" group-title="nations-league",20:45 Croazia vs Danimarca
+https://www.curvaweb.com/embed.php?id=live48
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20200709/original/pngtree-uefa-nations-league-logo-png-image_3642677.jpg" group-title="nations-league",20:45 Francia vs Austria
+https://www.curvaweb.com/embed.php?id=live44
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20200709/original/pngtree-uefa-nations-league-logo-png-image_3642677.jpg" group-title="nations-league",20:45 Francia vs Austria
+https://www.curvaweb.com/embed.php?id=livept5
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20200709/original/pngtree-uefa-nations-league-logo-png-image_3642677.jpg" group-title="nations-league",20:45 Belgio vs Galles
+https://www.curvaweb.com/embed.php?id=live42
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20200709/original/pngtree-uefa-nations-league-logo-png-image_3642677.jpg" group-title="nations-league",20:45 Turchia vs Lussemburgo
+https://www.curvaweb.com/embed.php?id=live49
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20200709/original/pngtree-uefa-nations-league-logo-png-image_3642677.jpg" group-title="nations-league",20:45 Polonia vs Olanda
+https://www.curvaweb.com/embed.php?id=livept4
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5PcOGsoIEjObXfuYeRBl_iZ4NGkskipc3hOshrZhQ3g&s" group-title="atp250",12:00 Live
+https://www.curvaweb.com/embed.php?id=liveSport
