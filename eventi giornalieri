@@ -1,7 +1,6 @@
 #EXTM3U 
 #EXTINF:-1,⏰⏰⏰ in diretta tv 10-10-2022-io aggiorno sempre gli eventi ma solo gli amici ringraziano⏰⏰⏰
 http://vimeo.com
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png" group-title="grande fratello",Grande Fratello VIP regia1
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png" group-title="grande fratello",Grande Fratello VIP regia2
@@ -14,3 +13,33 @@ https://pepperlive.info/sportp.php?id=6
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/530/215/png-transparent-football-flame-calcio-a-8-football-sport-computer-wallpaper-sports-equipment.png" group-title="calcio", sport italia 24
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/530/215/png-transparent-football-flame-calcio-a-8-football-sport-computer-wallpaper-sports-equipment.png" group-title="calcio",sky sport 24
+https://starlive.xyz/embed.php?id=livexSport24
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Serie-a-tim-2022-2023-logo.jpg/140px-Serie-a-tim-2022-2023-logo.jpg" group-title="serie a",20:45 Fiorentina vs Lazio
+https://www.curvaweb.com/embed.php?id=liveDazn1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Serie-a-tim-2022-2023-logo.jpg/140px-Serie-a-tim-2022-2023-logo.jpg" group-title="serie a",20:45 Fiorentina vs Lazio
+https://www.curvaweb.com/embed.php?id=live47
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Serie-a-tim-2022-2023-logo.jpg/140px-Serie-a-tim-2022-2023-logo.jpg" group-title="serie a",20:45 Fiorentina vs Lazio
+https://www.curvaweb.com/embed.php?id=live31
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Serie-a-tim-2022-2023-logo.jpg/140px-Serie-a-tim-2022-2023-logo.jpg" group-title="serie a",20:45 Fiorentina vs Lazio
+https://v3.sportsonline.to/channels/hd/hd7.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Serie-a-tim-2022-2023-logo.jpg/140px-Serie-a-tim-2022-2023-logo.jpg" group-title="serie a",20:45 Fiorentina vs Lazio
+https://skystreaming.tw/view/fiorentina-vs-lazio/HDWvK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Serie-a-tim-2022-2023-logo.jpg/140px-Serie-a-tim-2022-2023-logo.jpg" group-title="serie a",20:45 Fiorentina vs Lazio
+https://pepperlive.info/sport.php?id=67
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/6d/Premier_League_Logo_2016.png" group-title="premier league",21:00 Nottingham Forest vs Aston Villa
+https://www.curvaweb.com/embed.php?id=liveEPL-1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/6d/Premier_League_Logo_2016.png" group-title="premier league",21:00 Nottingham Forest vs Aston Villa
+https://v3.sportsonline.to/channels/pt/eleven1.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/6d/Premier_League_Logo_2016.png" group-title="premier league",21:00 Nottingham Forest vs Aston Villa
+https://pepperlive.info/sport.php?id=10
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_(stacked).svg/1200px-LaLiga_Santander_logo_(stacked).svg.png" group-title="la liga",
+https://www.curvaweb.com/embed.php?id=liveLigaBAR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_(stacked).svg/1200px-LaLiga_Santander_logo_(stacked).svg.png" group-title="la liga",
+https://v3.sportsonline.to/channels/pt/eleven2.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_(stacked).svg/1200px-LaLiga_Santander_logo_(stacked).svg.png" group-title="la liga",
+https://skystreaming.tw/view/elche-vs-maiorca/Y92BL
+
