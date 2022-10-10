@@ -1,19 +1,5 @@
 #EXTM3U 
-#EXTINF:-1,⏰⏰⏰ in diretta tv 10-10-2022-io aggiorno sempre gli eventi ma solo gli amici ringraziano⏰⏰⏰
-http://vimeo.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png" group-title="grande fratello",Grande Fratello VIP regia1
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png" group-title="grande fratello",Grande Fratello VIP regia2
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png" group-title="grande fratello",Grande Fratello VIP un ora fà
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/530/215/png-transparent-football-flame-calcio-a-8-football-sport-computer-wallpaper-sports-equipment.png" group-title="calcio",zona dazn
-https://pepperlive.info/sportp.php?id=6
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/530/215/png-transparent-football-flame-calcio-a-8-football-sport-computer-wallpaper-sports-equipment.png" group-title="calcio", sport italia 24
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/530/215/png-transparent-football-flame-calcio-a-8-football-sport-computer-wallpaper-sports-equipment.png" group-title="calcio",sky sport 24
-https://starlive.xyz/embed.php?id=livexSport24
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Serie-a-tim-2022-2023-logo.jpg/140px-Serie-a-tim-2022-2023-logo.jpg" group-title="serie a",20:45 Fiorentina vs Lazio
