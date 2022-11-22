@@ -6,12 +6,12 @@
   "menu": [
     {
       "title": "Film (Menu Classico)",
-      "link": "https://raw.githubusercontent.com/marci66/ciello/main/testMacFile.txt",
+      "link": "",
       "thumbnail": "channel_movies.png"
     },
 {
       "title": "Lista Generica",
-      "link": "/generic.json",
+      "link": "",
       "thumbnail": "channel_tvshow.png"
     }
   ]
