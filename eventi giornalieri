@@ -5,7 +5,7 @@
   "menu": [
     {
       "title": "Film (Menu Classico)",
-      "link": "test",
+      "link": "",
       "thumbnail": "channel_movies.png"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "title": "Serie",
-      "link": "generico",
+      "link": "",
       "thumbnail": "channel_tvshow.png"
     },
     {
