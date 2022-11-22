@@ -33,7 +33,7 @@
     },
     {
       "title": "Lista Generica",
-      "link": "/generico.json",
+      "link": "generico",
       "thumbnail": "channel_tvshow.png"
     }
   ]
