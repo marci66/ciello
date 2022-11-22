@@ -1,18 +1,24 @@
 {
-"name": "xxl",
-"author": "fresco",
-"url": "",
-"image": "",
-"image": "",
-"telegram": "",
-"info":
-"groups": [
-{"name": "",
-"image": "",
-"stations":[
-{ "name": "live",
-"url": "https://pastebin.com/raw/jSM7hgpj#.m3u",
-"userAgent": "cp_2531",
-"isHost": true },
-]},
-]}
+	"generic_list": [
+	  {
+		"title": "rai uno",
+		"year": "",
+		"links": [
+		  {
+			"url": "https://maxsport.one/rai1.php	",
+			"quality":"HD"
+		  }
+		]
+	  },
+	  {
+		"title": "rai 2",
+		"links": [
+		  {
+			"url": "https://maxsport.one/rai2.php	",
+			"quality":"HD"
+		  }
+		]
+	  }
+	]
+}
+
