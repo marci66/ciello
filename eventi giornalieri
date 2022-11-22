@@ -6,7 +6,7 @@
   "menu": [
     {
       "title": "Film (Menu Classico)",
-      "link": "/movie.json",
+      "link": "https://raw.githubusercontent.com/marci66/ciello/main/testMacFile.txt",
       "thumbnail": "channel_movies.png"
     },
 {
