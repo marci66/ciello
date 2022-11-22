@@ -11,7 +11,7 @@
     },
 {
       "title": "Lista Generica",
-      "link": "eventi",
+      "link": "eventi.json",
       "thumbnail": "channel_tvshow.png"
     }
   ]
