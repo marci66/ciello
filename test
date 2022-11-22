@@ -1,0 +1,184 @@
+{
+	"episodes_list": [
+		{
+		   "number": "test",
+		   "title": "rai 2",
+		   "links": [
+			   {
+				"url": "https://www.curvaweb.com/embed.php?id=liveRai2"
+			   }
+			]
+		},
+		{
+			"number": "1x02",
+			"title": "Reset",
+			"links": [
+				{
+				 "url": ""
+				}
+			 ]
+		},
+		{
+			"number": "1x03",
+			"title": "The Emily Show",
+			"links": [
+				{
+				 "url": ""
+				}
+			 ]
+		},
+		{
+			"number": "1x04",
+			"title": "Me You Him Me",
+			"links": [
+				{
+				 "url": ""
+				}
+			 ]
+		},
+		{
+			"number": "1x05",
+			"title": "Dig",
+			"links": [
+				{
+				 "url": ""
+				}
+			 ]
+		},
+		{
+			"number": "1x06",
+			"title": "Nobody's Innocent",
+			"links": [
+				{
+				 "url": ""
+				}
+			 ]
+		},
+		{
+			"number": "1x07",
+			"title": "A & B",
+			"links": [
+				{
+				 "url": ""
+				}
+			 ]
+		},
+		{
+			"number": "1x08",
+			"title": "Brave Boy",
+			"links": [
+				{
+				 "url": ""
+				}
+			 ]
+		},
+		{
+			"number": "1x09",
+			"title": "Child's Play",
+			"links": [
+				{
+				 "url": ""
+				}
+			 ]
+		},
+		{
+			"number": "1x10",
+			"title": "Original Sin",
+			"links": [
+				{
+				 "url": ""
+				}
+			 ]
+		},
+		{
+			"number": "2x01",
+			"title": "Casualties",
+			"links": [
+				{
+				 "url": ""
+				}
+			 ]
+		 },
+		 {
+			 "number": "2x02",
+			 "title": "Madness",
+			 "links": [
+				 {
+				  "url": ""
+				 }
+			  ]
+		 },
+		 {
+			 "number": "2x03",
+			 "title": "Guilty",
+			 "links": [
+				 {
+				  "url": ""
+				 }
+			  ]
+		 },
+		 {
+			 "number": "2x04",
+			 "title": "Offenders",
+			 "links": [
+				 {
+				  "url": ""
+				 }
+			  ]
+		 },
+		 {
+			 "number": "2x05",
+			 "title": "Bolo",
+			 "links": [
+				 {
+				  "url": ""
+				 }
+			  ]
+		 },
+		 {
+			 "number": "2x06",
+			 "title": "Cover",
+			 "links": [
+				 {
+				  "url": ""
+				 }
+			  ]
+		 },
+		 {
+			 "number": "2x07",
+			 "title": "Boom",
+			 "links": [
+				 {
+				  "url": ""
+				 }
+			  ]
+		 },
+		 {
+			 "number": "2x08",
+			 "title": "Aggression",
+			 "links": [
+				 {
+				  "url": ""
+				 }
+			  ]
+		 },
+		 {
+			 "number": "2x09",
+			 "title": "Committed",
+			 "links": [
+				 {
+				  "url": ""
+				 }
+			  ]
+		 },
+		 {
+			 "number": "2x10",
+			 "title": "Accomplice",
+			 "links": [
+				 {
+				  "url": ""
+				 }
+			  ]
+		 }
+	  ]
+}
