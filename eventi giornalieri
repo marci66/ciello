@@ -28,7 +28,7 @@
     },
     {
       "title": "Serie",
-      "link": "/tvshow.json",
+      "link": "generico",
       "thumbnail": "channel_tvshow.png"
     },
     {
