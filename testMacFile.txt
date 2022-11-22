@@ -5,8 +5,8 @@
 		"year": "",
 		"links": [
 		  {
-			"url": "	",
-			"quality":"HD"
+			"url": "	https://v4.sportsonline.to/channels/hd/hd7.php",
+			"esoplayer":"HD"
 		  }
 		]
 	  },
