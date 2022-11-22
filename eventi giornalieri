@@ -1,22 +1,18 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
-#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
-#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Serie-a-tim-2022-2023-logo.jpg/140px-Serie-a-tim-2022-2023-logo.jpg" group-title="serie a",15:00 Empoli vs Monza 
-https://starlive.xyz/embed.php?id=liveZonaDazn
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Serie-a-tim-2022-2023-logo.jpg/140px-Serie-a-tim-2022-2023-logo.jpg" group-title="serie a",15:00 Empoli vs Monza 
-https://starlive.xyz/embed.php?id=liveZonaDazn2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Serie-a-tim-2022-2023-logo.jpg/140px-Serie-a-tim-2022-2023-logo.jpg" group-title="serie a",15:00 Empoli vs Monza 
-https://starlive.xyz/embed.php?id=liveDazn14
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Serie-a-tim-2022-2023-logo.jpg/140px-Serie-a-tim-2022-2023-logo.jpg" group-title="serie a",15:00 Empoli vs Monza 
-https://starlive.xyz/embed.php?id=live47
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/77/Serie-a-tim-2022-2023-logo.jpg/140px-Serie-a-tim-2022-2023-logo.jpg" group-title="serie a",15:00 Empoli vs Monza 
-https://starlive.xyz/embed.php?id=live36
-
+{
+  "channel_name": "Test Channel",
+  "fanart": "",
+  "thumbnail": "eventi",
+  "menu": [
+    {
+      "title": "Film (Menu Classico)",
+      "link": "/movie.json",
+      "thumbnail": "channel_movies.png"
+    },
+{
+      "title": "Lista Generica",
+      "link": "/generic.json",
+      "thumbnail": "channel_tvshow.png"
+    }
+  ]
+}
