@@ -1,18 +1,42 @@
-
 {
   "channel_name": "Test Channel",
   "fanart": "",
-  "thumbnail": "eventi",
+  "thumbnail": "",
   "menu": [
     {
       "title": "Film (Menu Classico)",
-      "link": "",
+      "link": "/movie.json",
       "thumbnail": "channel_movies.png"
     },
-{
+    {
+      "title": "Filtro Film (Es. Saga Marvel Cinematic Universe)",
+      "link": "/movie.json",
+      "thumbnail": "channel_movies.png",
+      "filter": {"saga":"Marvel Cinematic Universe"}
+    },
+    {
+      "title": "Film (Sottomenu)",
+      "link": "/movie.json",
+      "thumbnail": "channel_movies.png",
+      "submenu": {"search":"", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
+    },
+    {
+      "title": "Film (Menu di 2° Livello)",
+      "link": "/movie.json",
+      "thumbnail": "channel_movies.png",
+      "level2": {"search":"", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
+    },
+    {
+      "title": "Serie",
+      "link": "/tvshow.json",
+      "thumbnail": "channel_tvshow.png"
+    },
+    {
       "title": "Lista Generica",
-      "link": "generico",
+      "link": "/generico.json",
       "thumbnail": "channel_tvshow.png"
     }
   ]
 }
+
+
