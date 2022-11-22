@@ -5,7 +5,7 @@
   "menu": [
     {
       "title": "Film (Menu Classico)",
-      "link": "/movie.json",
+      "link": "test",
       "thumbnail": "channel_movies.png"
     },
     {
