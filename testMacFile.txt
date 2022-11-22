@@ -5,7 +5,7 @@
 		"year": "",
 		"links": [
 		  {
-			"url": "https://maxsport.one/rai1.php	",
+			"url": "	",
 			"quality":"HD"
 		  }
 		]
