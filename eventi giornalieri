@@ -22,7 +22,7 @@
     },
     {
       "title": "Film (Menu di 2° Livello)",
-      "link": "/movie.json",
+      "link": "testMacFile.txt",
       "thumbnail": "channel_movies.png",
       "level2": {"search":"", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
     },
