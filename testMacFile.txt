@@ -6,7 +6,7 @@
 		"links": [
 		  {
 			"url": "	https://v4.sportsonline.to/channels/hd/hd7.php",
-			"esoplayer":"HD"
+			"quality":"HD"
 		  }
 		]
 	  },
