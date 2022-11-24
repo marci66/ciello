@@ -2,10 +2,10 @@
 	"generic_list": [
 	  
 	  {
-		"title": "la 2",
+		"title": "dmax",
 		"links": [
 		  {
-			"url": "http://190.2.155.162/RSI2/index.m3u8",
+			"url": "https://www.discoveryplus.com/it/channel/dmax?pc=323",
 			"quality":"HD"
 		  }
 		]
